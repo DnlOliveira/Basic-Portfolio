@@ -78,6 +78,27 @@ footer {
 	left: 125px;
 	width: 200px;	
 }
+#pic img {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+#one {
+	float: left;
+	margin-left: 50px;
+}
+#two {
+	float: right;
+	margin-right: 50px;
+}
+#three {
+	clear: both;
+	float: left;
+	margin-left: 50px;
+}
+#four {
+	float: right;
+	margin-right: 50px;
+}
 
 /* ---Contact Divs--- */
 #icons {
